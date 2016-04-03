@@ -1,0 +1,14 @@
+Steps:
+
+1) Set JAVA_HOME environment variable to existing JRE/JDK installation pointing to the java directory
+2) Run the file /bin/run.sh
+3) After software has been successfully started, goto http://localhost:8080/
+4) Click bounce now link and enter your yad2 credentials
+5) Click bounce, that's it
+6) Enjoy!
+
+
+
+Change default execution port:
+
+Set PORT environment variable with the desired port

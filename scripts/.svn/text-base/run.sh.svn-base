@@ -1,0 +1,1 @@
+$JAVA_HOME/bin/java -cp .:../lib/:../lib/* -Djava.security.auth.login.config=jaas.conf com.msrd.padvisor.PropertyAdvisorStartup
